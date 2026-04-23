@@ -25,19 +25,6 @@ By integrating LLM-driven extraction into the CRM workflow, the platform reduces
 
 ---
 
-## 📸 Screenshots
-
-### Interaction Logging UI
-![Interaction Form Placeholder](https://via.placeholder.com/800x400?text=Interaction+Form+and+Auto-fill+UI)
-
-### History View
-![History Dashboard Placeholder](https://via.placeholder.com/800x400?text=HCP+Interaction+History+Logs)
-
-### AI Chat Assistant
-![AI Chat Placeholder](https://via.placeholder.com/800x400?text=LangGraph+Agent+Chat+Interface)
-
----
-
 ## 🧠 Key Features
 
 *   **Hybrid Input System**: Seamlessly switch between structured forms and a conversational AI interface.
